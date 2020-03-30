@@ -7,7 +7,11 @@
 //
 
 #include <stdio.h>
+<<<<<<< HEAD
 ddddddd
+=======
+fffffffggg
+>>>>>>> change_site
 
 
 
