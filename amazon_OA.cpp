@@ -12,7 +12,7 @@
 
 
     if(nums.size() < 2)
-        return 0;
+        return ;
     sort(nums.begin(), nums.end());
     int n = nums.size();
     int left = 0, right = n - 1;
